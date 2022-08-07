@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// wahyu
+
 Route::get('/', function () {
     return view('welcome');
 });
