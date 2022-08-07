@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 // wahyu
-
+// Nugraha
 Route::get('/', function () {
     return view('welcome');
 });
